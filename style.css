@@ -41,19 +41,19 @@ nav li {
   display: inline-block; /*один из способов разместить элементы в строку*/
 }
 
-.container {
+/*.container {
     max-width: 960px;
     justify-content: space-between ;
     display: inline-flex;
- }
+ }*/
 
 .logo{
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border-radius: 100px;
 }
 
-.table {
+/*.table {
             border-collapse: collapse;
             width: 100%;
         }
@@ -68,7 +68,7 @@ nav li {
             background-color: #f2f2f2;
         }
 
-.footer {}
+.footer {}*/
 
 
 
